@@ -21,9 +21,14 @@ To build a logistic regression model in python.
 # Approach
 
 ## Tech Stack
+- Language
+   - Python
+- Libraries
+  - numpy, pandas, matplotlib, seaborn, sklearn, pickle, imblearn,
+statsmodel 
 
 ## Data Description
-The CSV consists of around 2000 rows and 16 columns in [Data](https://github.com/diegovillatoromx/logistic_regresion_model/blob/main/Data/data_regression.csv)
+The CSV consists of around 2000 rows and 16 columns in the [dataset](https://github.com/diegovillatoromx/logistic_regresion_model/blob/main/Data/data_regression.csv)
 ### Features:
 - Year
 - Customer_id - unique id
