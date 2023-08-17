@@ -23,7 +23,7 @@ To build a logistic regression model in python.
 ## Tech Stack
 
 ## Data Description
-The CSV consists of around 2000 rows and 16 columns.
+The CSV consists of around 2000 rows and 16 columns in [Data](https://github.com/diegovillatoromx/logistic_regresion_model/blob/main/Data/data_regression.csv)
 ### Features:
 - Year
 - Customer_id - unique id
@@ -41,7 +41,6 @@ The CSV consists of around 2000 rows and 16 columns.
 - Maximum_days_inactive - days since inactive
 - Customer support calls - number of customer support calls
 - Churn
-  - 0. Yes
-  - 1. No
-[Data](https://github.com/diegovillatoromx/logistic_regresion_model/blob/main/Data/data_regression.csv)
+  - 0 No
+  - 1 Yes
 ## Complete Tutorial
