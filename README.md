@@ -78,4 +78,8 @@ The CSV consists of around 2000 rows and 16 columns in the [dataset](https://git
   - 0 No
   - 1 Yes
     
-## Complete Tutorial
+## Modular Code Overview
+
+- - data
+    |_ data_regresion.csv
+- - 
