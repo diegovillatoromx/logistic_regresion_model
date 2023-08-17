@@ -80,6 +80,11 @@ The CSV consists of around 2000 rows and 16 columns in the [dataset](https://git
     
 ## Modular Code Overview
 
-- - data
-    |_ data_regresion.csv
-- - 
+└── src
+   ├── index.html
+   └── js
+   │  ├── main.js
+   │  └── ...
+   └── css
+      ├──style.css
+      └── ...
