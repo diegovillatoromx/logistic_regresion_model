@@ -1,1 +1,1 @@
-# logistic_regresion_model
+# Building a logistic regresion model with python
