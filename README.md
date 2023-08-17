@@ -58,12 +58,12 @@ statsmodel
 
 ## Data Description
 The CSV consists of around 2000 rows and 16 columns in the [dataset](https://github.com/diegovillatoromx/logistic_regresion_model/blob/main/Data/data_regression.csv)
-### - Features:
-    - Year
-    - Customer_id - unique id
-    - Phone_no - customer phone no
-    - Gender -Male/Female
-    - Age
+### Features:
+- Year
+- Customer_id - unique id
+- Phone_no - customer phone no
+- Gender -Male/Female
+- Age
 - No of days subscribed - the number of days since the subscription
 - Multi-screen - does the customer have a single/ multiple screen subscription
 - Mail subscription - customer receive mails or not
