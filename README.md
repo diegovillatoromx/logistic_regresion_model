@@ -91,14 +91,14 @@ The CSV consists of around 2000 rows and 16 columns in the [dataset](https://git
      |_ data.csv
 ```
 1. Data Folder - It contains all the data that we have for analysis. There is one csv
-file in our case,
-  - Data_regression
-2. Src folder -This is the most important folder of the project. This folder contains
+file in our case:
+   - Data_regression
+3. Src folder -This is the most important folder of the project. This folder contains
 all the modularized code for all the above steps in a modularized manner. This
 folder consists of:
-  - Engine.py
-  - ML_Pipeline
-    - The ML_pipeline is a folder that contains all the functions put into different
+   - Engine.py
+   - ML_Pipeline
+     - The ML_pipeline is a folder that contains all the functions put into different
       python files, which are appropriately named. These python functions are
       then called inside the engine.py file.
 
