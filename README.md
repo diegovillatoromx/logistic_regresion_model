@@ -2,6 +2,9 @@
 
 # Overview 
 
+## Architecture Diagram
+<img src="architecture_diagram">
+
 # Aim
 To build a logistic regression model in python.
 
@@ -10,3 +13,5 @@ To build a logistic regression model in python.
 ## Tech Stack
 
 ## Data Description
+
+## Complete Tutorial
