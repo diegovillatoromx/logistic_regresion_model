@@ -41,7 +41,7 @@ The CSV consists of around 2000 rows and 16 columns.
 14. Maximum_days_inactive - days since inactive
 15. Customer support calls - number of customer support calls
 16. Churn
-    - 1. Yes
-    - 0. No
+    - 0. Yes
+    - 1. No
 [Data](https://github.com/diegovillatoromx/logistic_regresion_model/blob/main/Data/data_regression.csv)
 ## Complete Tutorial
