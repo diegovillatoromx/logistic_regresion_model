@@ -3,7 +3,7 @@
 # Overview 
 
 ## Architecture Diagram
-<img src="architecture_diagram">
+<img src="architecture_diagram.png">
 
 # Aim
 To build a logistic regression model in python.
