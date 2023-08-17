@@ -1,6 +1,6 @@
 # Building a logistic regresion model with python
 
-# Business Objective
+## Business Objective
 Predicting a qualitative response for observation can be referred to as classifying that
 observation since it involves assigning the observation to a category or class.
 Classification forms the basis for Logistic Regression. Logistic Regression is a
@@ -15,10 +15,39 @@ renew the subscription for the coming year or not.
 ## Architecture Diagram
 <img src="architecture_diagram.png">
 
-# Aim
-To build a logistic regression model in python.
+## Aim
+Build a logistics regression learning model on the given dataset to determine whether
+the customer will churn or not.
 
-# Approach
+## Approach
+- Importing the required libraries and reading the dataset.
+- Inspecting and cleaning up the data
+- Perform data encoding on categorical variables
+- Exploratory Data Analysis (EDA)
+  - Data Visualization
+- Feature Engineering
+  - Dropping of unwanted columns
+- Model Building
+  - Using the statsmodel library
+- Model Building
+  - Performing train test split
+  - Logistic Regression Model
+- Model Validation (predictions)
+  - Accuracy score
+  - Confusion matrix
+  - ROC and AUC
+  - Recall score
+  - Precision score
+  - F1-score
+- Handling the unbalanced data
+  - With balanced weights
+  - Random weights
+  - Adjusting imbalanced data
+  - Using SMOTE
+- Feature Selection
+  - Barrier threshold selection
+  - RFE method
+- Save the model in the form of a pickle file
 
 ## Tech Stack
 - Language
@@ -48,4 +77,5 @@ The CSV consists of around 2000 rows and 16 columns in the [dataset](https://git
 - Churn
   - 0 No
   - 1 Yes
+    
 ## Complete Tutorial
