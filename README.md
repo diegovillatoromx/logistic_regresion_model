@@ -13,5 +13,5 @@ To build a logistic regression model in python.
 ## Tech Stack
 
 ## Data Description
-
+[Data](https://github.com/diegovillatoromx/logistic_regresion_model/blob/main/Data/data_regression.csv)
 ## Complete Tutorial
