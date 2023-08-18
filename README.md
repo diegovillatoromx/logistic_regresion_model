@@ -81,12 +81,22 @@ The CSV consists of around 2000 rows and 16 columns in the [dataset](https://git
 ## Modular Code Overview
 
 ```
-  dataset
-    |_data.csv
+  Data
+    |_data_regression.csv
 
   src
     |_Engine.py
     |_ML_pipeline
+              |_encoding.py
+              |_evaluate_metrics.py
+              |_feature_engg.py
+              |_imbalanced_data.py
+              |_ml_model.py
+              |_stats_model.py
+              |_rescale_variables.py
+              |_scaler.py
+              |_train_model.py
+              |_utils.py
 
   lib
     |_logistic_regresion.ipynb
