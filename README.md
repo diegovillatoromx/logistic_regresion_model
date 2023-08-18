@@ -114,8 +114,8 @@ The CSV consists of around 2000 rows and 16 columns in the [dataset](https://git
 ```
 1. Data Folder - It contains all the data that we have for analysis. There is one csv
 file in our case:
-   - Data_regression
-3. Src folder -This is the most important folder of the project. This folder contains
+   - Data_regression.csv
+2. Src folder -This is the most important folder of the project. This folder contains
 all the modularized code for all the above steps in a modularized manner. This
 folder consists of:
    - Engine.py
@@ -129,5 +129,6 @@ for this data. These models can be easily loaded and used for future use and
 the user need not have to train all the models from the beginning.
 Note: This model is built over a chunk of data. One can obtain the model for the
 entire data by running engine.py by taking the entire data to train the models.
-4. Lib folder - This is a reference folder. It contains the original ipython notebook
-that we saw in the videos.
+
+4. Lib folder - This is a reference folder. It contains the [ipython notebook tutorial]().
+.
