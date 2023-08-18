@@ -81,14 +81,20 @@ The CSV consists of around 2000 rows and 16 columns in the [dataset](https://git
 ## Modular Code Overview
 
 ```
-   dataset
-     |_ data.csv
-
   dataset
-     |_ data.csv
+    |_data.csv
 
-  dataset
-     |_ data.csv
+  src
+    |_Engine.py
+    |_ML_pipeline
+
+  lib
+    |_logistic_regresion.ipynb
+
+  output
+    |_adjusted_model.pkl
+    |_balanced_model1.pkl
+    |_balanced_model1.pkl
 ```
 1. Data Folder - It contains all the data that we have for analysis. There is one csv
 file in our case:
