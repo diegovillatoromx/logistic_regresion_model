@@ -13,7 +13,7 @@ subscription plan for their product. The company wants to know if the customers 
 renew the subscription for the coming year or not.
 
 ## Architecture Diagram
-<img src="architecture_diagram.png">
+<img src="architecture_diagram.png" >
 
 ## Aim
 Build a logistics regression learning model on the given dataset to determine whether
