@@ -125,7 +125,7 @@ folder consists of:
       then called inside the engine.py file.
 
 3. Output folder – The output folder contains the best-fitted models that we trained
-for this data. These models can be easily loaded and used for future use and
+for this data. These models can  be easily loaded and used for future use and
 the user need not have to train all the models from the beginning.
 Note: This model is built over a chunk of data. One can obtain the model for the
 entire data by running engine.py by taking the entire data to train the models.
