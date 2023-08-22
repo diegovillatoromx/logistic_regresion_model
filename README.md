@@ -76,7 +76,7 @@ The CSV consists of around 2000 rows and 16 columns in the [dataset](https://git
 - Customer support calls - number of customer support calls
 - Churn
   - 0 No
-  - 1 Yes
+  - 1 Yes 
     
 ## Modular Code Overview
 
