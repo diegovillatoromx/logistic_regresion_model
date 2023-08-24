@@ -61,7 +61,7 @@ The CSV consists of around 2000 rows and 16 columns in the [dataset](https://git
 ### Features:
 - Year
 - Customer_id - unique id
-- Phone_no - customer phone no
+- Phone_no - customer phone no 
 - Gender -Male/Female
 - Age
 - No of days subscribed - the number of days since the subscription
