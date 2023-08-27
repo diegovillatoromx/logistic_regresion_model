@@ -58,6 +58,7 @@ statsmodel
 
 ## Data Description
 The CSV consists of around 2000 rows and 16 columns in the [dataset](https://github.com/diegovillatoromx/logistic_regresion_model/blob/main/Data/data_regression.csv)
+
 ### Features:
 - Year
 - Customer_id - unique id
